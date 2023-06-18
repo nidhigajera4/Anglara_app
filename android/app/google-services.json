@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "5624355680",
+    "project_id": "anglara-demo",
+    "storage_bucket": "anglara-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5624355680:android:54b1ce6d593d0241aa1c05",
+        "android_client_info": {
+          "package_name": "com.example.anglara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5624355680-dicdpq0hm7s9anht12q459sijb9mb6ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXf34wNoSHgP9mpWU3dr5ki2x0A32H7UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5624355680-dicdpq0hm7s9anht12q459sijb9mb6ap.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "5624355680-4mv999afvljfag79jcav54gmnolj4ci0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.anglara"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
